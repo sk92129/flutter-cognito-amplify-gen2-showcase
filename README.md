@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Based on amplify gen2 and from this documentation
+https://docs.amplify.aws/flutter/start/quickstart/
 
-A few resources to get you started if this is your first Flutter project:
+<img width="889" height="247" alt="image" src="https://github.com/user-attachments/assets/8d7bf721-e649-4d43-ad20-7e907b26cf5a" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
