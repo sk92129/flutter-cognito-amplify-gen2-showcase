@@ -1,6 +1,6 @@
-# uniapp2
+# Showcase for using Amplify Cognito with Flutter (Gen2)
 
-A new Flutter project.
+Using Gen2 for building the sandbox and the configuration for AWS Cognito
 
 ## Getting Started
 
